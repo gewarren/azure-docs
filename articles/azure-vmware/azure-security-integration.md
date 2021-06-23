@@ -59,7 +59,7 @@ The diagram shows the integrated monitoring architecture of integrated security 
 
     - Region 
 
-    - Operating system
+    - Operating system 
 
     - Proxy Server details
     
